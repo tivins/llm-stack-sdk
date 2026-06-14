@@ -3,3 +3,4 @@ vendor/
 .vscode/
 .cursor/
 test.php
+new_release.php
