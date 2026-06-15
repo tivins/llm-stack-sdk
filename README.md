@@ -1,6 +1,6 @@
 # LLM Stack SDK
 
-PHP wrapper for the LLM Stack CLI.
+PHP wrapper for the [LLM Stack CLI](https://github.com/tivins/llm-stack).
 
 ## Installation
 
